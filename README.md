@@ -4,7 +4,7 @@
 Analyzed a real-world healthcare dataset from Stormont Vail Health (Kansas) capturing patient encounters, service utilization, and demographic trends in the post-pandemic period. Collaborated as part of a 5-member team to identify meaningful patterns and explore disparities in healthcare service utilization across patient groups. Data cannot be shared publicly due to privacy and licensing restrictions.
 
 ## Files
-- [DataFest2026_Presentation.pdf](DataFest2026_Presentation.pdf) – Team presentation slides summarizing findings and insights
+- [patient_encounter.pdf](patient_encounter.pdf) – Team presentation slides summarizing findings and insights
 
 ## Visualizations
 Charts and graphs highlighting post-pandemic growth in patient encounters and unequal increases in healthcare service use across patient demographics
