@@ -14,5 +14,4 @@ Charts and graphs highlighting post-pandemic growth in patient encounters and un
 - Statistical analysis and data visualization
 - Identifying trends and disparities across patient populations
 - Collaborating effectively in a fast-paced, team-based competition environment
-- Communicating findings to judges and faculty under competition conditions
 - Working with complex, multi-file relational datasets (HIPAA-compliant)
