@@ -5,6 +5,7 @@ Analyzed a real-world healthcare dataset from Stormont Vail Health to examine a 
 
 ## Files
 - [patient_encounter.pdf](patient_encounter.pdf) – Team presentation slides summarizing findings and insights
+- Data cannot be shared publicly due to privacy and licensing restrictions.
 
 ## Visualizations
 Charts and graphs highlighting post-pandemic growth in patient encounters and unequal increases in healthcare service use across patient demographics
