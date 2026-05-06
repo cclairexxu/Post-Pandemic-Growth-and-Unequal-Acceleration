@@ -1,7 +1,7 @@
 # Patient Journey Analysis — ASA DataFest 2026
 
 ## Description
-Analyzed a real-world healthcare dataset from Stormont Vail Health (Kansas) capturing patient encounters, service utilization, and demographic trends in the post-pandemic period. Collaborated as part of a 5-member team to identify meaningful patterns and explore disparities in healthcare service utilization across patient groups. Data cannot be shared publicly due to privacy and licensing restrictions.
+A time series analysis of patient encounter dynamics across a regional health system (2022–2025), examining post-pandemic growth trends and racial disparities in healthcare utilization. Used linear trend modeling and data visualization to uncover unequal acceleration in encounter volume across demographic groups.
 
 ## Files
 - [patient_encounter.pdf](patient_encounter.pdf) – Team presentation slides summarizing findings and insights
