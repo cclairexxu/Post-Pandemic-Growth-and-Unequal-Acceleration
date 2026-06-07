@@ -11,7 +11,6 @@ Analyzed a real-world healthcare dataset from Stormont Vail Health to examine a 
 Charts and graphs highlighting post-pandemic growth in patient encounters and unequal increases in healthcare service use across patient demographics
 
 ## Skills Developed
-- Exploratory data analysis on real-world healthcare data
 - Statistical analysis and data visualization
 - Identifying trends and disparities across patient populations
 - Collaborating effectively in a fast-paced, team-based competition environment
